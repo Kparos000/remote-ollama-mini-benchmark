@@ -2,6 +2,10 @@
 .env
 __pycache__/
 *.pyc
+.pytest_cache/
 results/*.jsonl
 results/*.csv
 results/*.md
+plots/*.png
+plots/*.jpg
+plots/*.svg
